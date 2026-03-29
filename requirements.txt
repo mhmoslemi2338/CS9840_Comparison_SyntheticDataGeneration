@@ -9,6 +9,7 @@ plotly
 kaleido
 nbconvert
 matplotlib
+joblib
 
 # Machine Learning & LLM Frameworks
 torch>=2.2.0
@@ -17,6 +18,7 @@ torchaudio
 huggingface_hub
 transformers
 accelerate
+lightgbm
 
 # Synthetic Data Generation
 tabgan
